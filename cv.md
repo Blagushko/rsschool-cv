@@ -14,3 +14,17 @@
 *   Web Dynpro;
 *   BSP, RFC;
 *   The English language (writing – B2, spelling – B2).
+
+## Experience
+*   Implement new business requirements for the application.
+*   Perform bug fixing.
+*   Implement new settings Migrated MDM data model into ABAP Dictionary.
+*   Write technical documentation.
+*   Redesign user interface for new product categories. 
+*   Redesign workflow for new product categories.
+*   Create web application for new product categories.
+*   Use ABAP OOP and OOP Design patterns.
+*   Generate and design Selection Screen (create and select parameters for the necessary label composition).
+*   Organize database updates, transferred data between programs.
+*   Use ABAP Open SQL to work with DB tables.
+*   Analyze multiple database records.
