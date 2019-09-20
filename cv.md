@@ -6,3 +6,11 @@
 * Expert knowledge of enterprise economics processes. 
 * Appropriate communication skills proven by extensive participation in international project for international customers (_incl. Whirlpool Corporation_).
 * Ability to learn quickly, often in high pressure situations.
+
+## Skills summary
+*   ABAP Core;
+*   ABAP OOP;
+*   MDM ABAP API;
+*   Web Dynpro;
+*   BSP, RFC;
+*   The English language (writing – B2, spelling – B2).
