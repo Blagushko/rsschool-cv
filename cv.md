@@ -28,3 +28,9 @@
 *   Organize database updates, transferred data between programs.
 *   Use ABAP Open SQL to work with DB tables.
 *   Analyze multiple database records.
+
+## Education
+1.  Bachelor
+    Economic informatics/Belarusian State Economic University (2014-2018).
+2.  Software Quality Assurance course (_Stormnet_ - 2017).
+3.  Business English course (2018-2019).
